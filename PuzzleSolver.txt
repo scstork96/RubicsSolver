@@ -1,0 +1,1 @@
+setState b12 345 678 solve A-star h1 randomizeState 10 solve A-star h1 setState b12 345 678 solve A-star h2 randomizeState 10 solve A-star h2 setState b12 345 678 solve beam 10 randomizeState 10 solve beam 10 setState b12 345 678 solve beam 2 randomizeState 10 maxNodes 100 solve beam 2
